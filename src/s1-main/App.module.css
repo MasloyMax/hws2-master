@@ -1,12 +1,30 @@
 .App {
     max-width: 1100px;
     margin: 0 auto;
+    margin-top: 165px;
 }
 
 .hw {
-
+    /*margin-top: 165px;*/
 }
 
 .hwTitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    padding-bottom: 34px;
+}
 
+.hw3Title {
+    margin-top: 112px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    padding-bottom: 34px;
 }
