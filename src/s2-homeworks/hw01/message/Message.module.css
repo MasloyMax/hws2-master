@@ -24,14 +24,14 @@
     position: absolute;
     content: '';
     top: 49px;
-    right: 457px;
+    right: 297px;
     background: #0066CC;
     height: 20px;
     width: 20px;
     z-index: -1;
     transform: skewX(45deg);
     border-radius: 0 10px 0 0;
-    margin-top: 205px;
+    margin-top: 83px;
 }
 
 .name {

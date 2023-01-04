@@ -20,6 +20,7 @@
     width: 372px;
     height: 36px;
     margin-right: 12px;
+
 }
 
 .input:focus {
@@ -29,6 +30,8 @@
     width: 372px;
     height: 36px;
     margin-right: 12px;
+    border: red 1px solid;
+    outline-color: red;
 }
 
 .button {
