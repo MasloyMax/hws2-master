@@ -1,4 +1,10 @@
 .select {
+    border: 1px solid black;
+    outline-color: black;
+    color: black;
+    width: 165px;
+    height: 24px;
+    margin-right: 127px;
 }
 
 .select:focus {
